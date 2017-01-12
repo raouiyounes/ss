@@ -1,0 +1,2 @@
+set(ratslam_ros_MESSAGE_FILES "/home/younes/git_tt/ratrobot/src/ratslam_ros/msg/TopologicalAction.msg;/home/younes/git_tt/ratrobot/src/ratslam_ros/msg/TopologicalEdge.msg;/home/younes/git_tt/ratrobot/src/ratslam_ros/msg/TopologicalMap.msg;/home/younes/git_tt/ratrobot/src/ratslam_ros/msg/TopologicalNode.msg;/home/younes/git_tt/ratrobot/src/ratslam_ros/msg/ViewTemplate.msg")
+set(ratslam_ros_SERVICE_FILES "")

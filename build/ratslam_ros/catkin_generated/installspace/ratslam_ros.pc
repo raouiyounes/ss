@@ -1,0 +1,8 @@
+prefix=/home/younes/git_tt/ratrobot/install
+
+Name: ratslam_ros
+Description: Description of ratslam_ros
+Version: 0.0.1
+Cflags: -I/home/younes/git_tt/ratrobot/install/include
+Libs: -L/home/younes/git_tt/ratrobot/install/lib 
+Requires: message_runtime geometry_msgs std_msgs
